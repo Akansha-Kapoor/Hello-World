@@ -9,4 +9,5 @@ Let us try a list
 * Chocolates
 * Cakes
 * Sweets
-I have a huge sweettooth
+
+I have a huge sweet tooth
